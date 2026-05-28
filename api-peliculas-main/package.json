@@ -1,0 +1,22 @@
+{
+  "name": "peliculas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "20.x"
+  },
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "sequelize": "^6.37.8",
+    "sqlite3": "^5.1.6"
+  }
+}
